@@ -103,13 +103,15 @@ Start the Backend server
     npm run server
 ```
 ## 🧰 Tech Stack
-* [React](https://reactjs.org/)
-* [Node.js](https://nodejs.org/en)
-* [Express.js](https://expressjs.com/)
-* [Mongodb](https://www.mongodb.com/)
-* [Stripe](https://stripe.com/)
-* [JWT-Authentication](https://jwt.io/introduction)
-* [Multer](https://www.npmjs.com/package/multer)
+
+- 🖥️ [React](https://reactjs.org/) – Frontend library for building user interfaces  
+- ⚙️ [Node.js](https://nodejs.org/en) – JavaScript runtime for backend development  
+- 🚀 [Express.js](https://expressjs.com/) – Web framework for Node.js  
+- 🗄️ [MongoDB](https://www.mongodb.com/) – NoSQL database for storing application data  
+- 💳 [Stripe](https://stripe.com/) – Payment gateway integration for online transactions  
+- 🔐 [JWT Authentication](https://jwt.io/introduction) – Secure token-based user authentication  
+- 📦 [Multer](https://www.npmjs.com/package/multer) – Middleware for handling file uploads
+
 
 ## 🚢 DeploymentDeployment
 
