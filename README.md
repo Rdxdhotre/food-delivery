@@ -1,6 +1,6 @@
 # 🍛 Sudama Pohe Dapodi – Food Ordering Website
 
-This repository hosts the complete source code for **TOMATO**, a dynamic and responsive food ordering web application built using the **MERN Stack** (MongoDB, Express, React, Node.js). It provides a seamless food ordering experience with real-time features, secure authentication, and role-based dashboards.
+This repository hosts the complete source code for **Sudama Pohe Dapodi**, a dynamic and responsive food ordering web application built using the **MERN Stack** (MongoDB, Express, React, Node.js). It provides a seamless food ordering experience with real-time features, secure authentication, and role-based dashboards.
 
 ---
 
